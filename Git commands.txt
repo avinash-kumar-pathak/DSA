@@ -1,0 +1,20 @@
+Should be in the particular folder then this cmd will work
+
+to check which branch you are
+git branch
+
+To check status
+git status
+
+To add commit to git
+git add .
+
+To lock commit to github
+git commit -m "anything you want to write"
+
+final push to github upload
+git push origin "branch name"
+
+git config --global user.name "avinash-kumar-pathak"
+
+git config --global user.email "avinashbxr15@gmail.com"
